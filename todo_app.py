@@ -1,5 +1,5 @@
 # Designed by Prakash Srinivasan ( prarvy@gmail.com )
-# Project Name: To Do Basic
+# Project Name: To Do App
 # Version: 1.0: Base version by author
 import sqlite3
 
